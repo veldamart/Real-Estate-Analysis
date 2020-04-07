@@ -1,0 +1,17 @@
+C:\Users\velda\source\repos\Real Estate Analysis\Real Estate Analysis\bin\Debug\Real Estate Analysis.exe.config
+C:\Users\velda\source\repos\Real Estate Analysis\Real Estate Analysis\bin\Debug\Real Estate Analysis.exe
+C:\Users\velda\source\repos\Real Estate Analysis\Real Estate Analysis\bin\Debug\Real Estate Analysis.pdb
+C:\Users\velda\source\repos\Real Estate Analysis\Real Estate Analysis\obj\Debug\Real Estate Analysis.csprojAssemblyReference.cache
+C:\Users\velda\source\repos\Real Estate Analysis\Real Estate Analysis\obj\Debug\Real Estate Analysis.csproj.CoreCompileInputs.cache
+C:\Users\velda\source\repos\Real Estate Analysis\Real Estate Analysis\obj\Debug\Real Estate Analysis.exe
+C:\Users\velda\source\repos\Real Estate Analysis\Real Estate Analysis\obj\Debug\Real Estate Analysis.pdb
+C:\Users\velda\source\repos\Real Estate Analysis\Real Estate Analysis\obj\Debug\Interop.VSTOEE100.dll
+C:\Users\velda\source\repos\Real Estate Analysis\Real Estate Analysis\obj\Debug\Real Estate Analysis.csproj.ResolveComReference.cache
+C:\Users\Velda\Desktop\Real Estate Analysis\bin\Debug\Real Estate Analysis.exe.config
+C:\Users\Velda\Desktop\Real Estate Analysis\bin\Debug\Real Estate Analysis.exe
+C:\Users\Velda\Desktop\Real Estate Analysis\bin\Debug\Real Estate Analysis.pdb
+C:\Users\Velda\Desktop\Real Estate Analysis\obj\Debug\Interop.VSTOEE100.dll
+C:\Users\Velda\Desktop\Real Estate Analysis\obj\Debug\Real Estate Analysis.csproj.ResolveComReference.cache
+C:\Users\Velda\Desktop\Real Estate Analysis\obj\Debug\Real Estate Analysis.csproj.CoreCompileInputs.cache
+C:\Users\Velda\Desktop\Real Estate Analysis\obj\Debug\Real Estate Analysis.exe
+C:\Users\Velda\Desktop\Real Estate Analysis\obj\Debug\Real Estate Analysis.pdb
